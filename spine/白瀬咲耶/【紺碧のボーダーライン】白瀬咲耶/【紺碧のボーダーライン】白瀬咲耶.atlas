@@ -1,0 +1,433 @@
+
+【紺碧のボーダーライン】白瀬咲耶.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acce_L
+  rotate: false
+  xy: 800, 642
+  size: 11, 38
+  orig: 11, 38
+  offset: 0, 0
+  index: -1
+acce_R
+  rotate: true
+  xy: 962, 656
+  size: 11, 38
+  orig: 11, 38
+  offset: 0, 0
+  index: -1
+arm_L_bottom_down
+  rotate: false
+  xy: 334, 58
+  size: 144, 129
+  orig: 144, 129
+  offset: 0, 0
+  index: -1
+arm_L_bottom_up
+  rotate: true
+  xy: 347, 319
+  size: 81, 170
+  orig: 81, 170
+  offset: 0, 0
+  index: -1
+arm_L_bottom_up_line
+  rotate: false
+  xy: 488, 195
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+arm_L_top_down
+  rotate: false
+  xy: 173, 233
+  size: 163, 148
+  orig: 163, 148
+  offset: 0, 0
+  index: -1
+arm_L_top_up
+  rotate: false
+  xy: 872, 669
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+arm_R_bottom
+  rotate: false
+  xy: 540, 380
+  size: 62, 212
+  orig: 62, 212
+  offset: 0, 0
+  index: -1
+arm_R_top
+  rotate: false
+  xy: 604, 358
+  size: 59, 234
+  orig: 59, 234
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 347, 594
+  size: 268, 428
+  orig: 268, 428
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: true
+  xy: 665, 347
+  size: 135, 79
+  orig: 135, 79
+  offset: 0, 0
+  index: -1
+cheek_2
+  rotate: false
+  xy: 2, 2
+  size: 85, 8
+  orig: 85, 8
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 872, 827
+  size: 195, 131
+  orig: 195, 131
+  offset: 0, 0
+  index: -1
+chest_string
+  rotate: false
+  xy: 173, 7
+  size: 143, 84
+  orig: 143, 84
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 318, 2
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: true
+  xy: 111, 14
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+eye_lish_shadow_L
+  rotate: false
+  xy: 824, 376
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+eye_lish_shadow_R
+  rotate: false
+  xy: 921, 644
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+eyeball_L
+  rotate: false
+  xy: 1002, 801
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+eyeball_R
+  rotate: false
+  xy: 1002, 778
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+eyebrow_L
+  rotate: true
+  xy: 861, 604
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+eyebrow_R
+  rotate: true
+  xy: 338, 343
+  size: 38, 5
+  orig: 38, 5
+  offset: 0, 0
+  index: -1
+eyelid_L
+  rotate: false
+  xy: 723, 640
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+eyelid_R
+  rotate: false
+  xy: 746, 340
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+eyelish_L
+  rotate: false
+  xy: 872, 645
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+eyelish_R
+  rotate: false
+  xy: 617, 604
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+eyes_close_L
+  rotate: false
+  xy: 334, 46
+  size: 39, 10
+  orig: 39, 10
+  offset: 0, 0
+  index: -1
+eyes_close_L_shadow
+  rotate: false
+  xy: 111, 2
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+eyes_close_R
+  rotate: false
+  xy: 519, 365
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+eyes_close_R_shadow
+  rotate: true
+  xy: 1005, 916
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+eyes_smile_L
+  rotate: true
+  xy: 784, 640
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+eyes_smile_R
+  rotate: true
+  xy: 318, 46
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+eyes_surp_L
+  rotate: false
+  xy: 872, 622
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+eyes_surp_R
+  rotate: false
+  xy: 519, 380
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+eyewhite_L
+  rotate: true
+  xy: 1005, 991
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+eyewhite_R
+  rotate: true
+  xy: 1005, 959
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 338, 189
+  size: 128, 148
+  orig: 128, 148
+  offset: 0, 0
+  index: -1
+faceshadow
+  rotate: true
+  xy: 736, 499
+  size: 139, 123
+  orig: 139, 123
+  offset: 0, 0
+  index: -1
+fingerR
+  rotate: false
+  xy: 488, 223
+  size: 36, 94
+  orig: 36, 94
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 746, 378
+  size: 76, 119
+  orig: 76, 119
+  offset: 0, 0
+  index: -1
+hair_F_LR
+  rotate: false
+  xy: 347, 402
+  size: 191, 190
+  orig: 191, 190
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 736, 682
+  size: 80, 340
+  orig: 80, 340
+  offset: 0, 0
+  index: -1
+hair_R_B
+  rotate: false
+  xy: 818, 640
+  size: 52, 382
+  orig: 52, 382
+  offset: 0, 0
+  index: -1
+hair_R_F
+  rotate: false
+  xy: 142, 71
+  size: 29, 310
+  orig: 29, 310
+  offset: 0, 0
+  index: -1
+hair_T
+  rotate: false
+  xy: 2, 383
+  size: 343, 639
+  orig: 343, 639
+  offset: 0, 0
+  index: -1
+hand_L_down
+  rotate: true
+  xy: 2, 12
+  size: 43, 107
+  orig: 43, 107
+  offset: 0, 0
+  index: -1
+hand_L_up
+  rotate: true
+  xy: 824, 402
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 665, 484
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+head_base
+  rotate: false
+  xy: 173, 93
+  size: 159, 138
+  orig: 159, 138
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 57
+  size: 138, 324
+  orig: 138, 324
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 617, 689
+  size: 117, 333
+  orig: 117, 333
+  offset: 0, 0
+  index: -1
+mouth_anger
+  rotate: true
+  xy: 480, 171
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+mouth_anger2
+  rotate: false
+  xy: 89, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+mouth_close1
+  rotate: false
+  xy: 617, 594
+  size: 33, 8
+  orig: 33, 8
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 1002, 763
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+mouth_open2
+  rotate: false
+  xy: 375, 46
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: true
+  xy: 799, 342
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+mouth_surp
+  rotate: false
+  xy: 867, 389
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+mouth_surp2
+  rotate: true
+  xy: 153, 48
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 617, 628
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 368, 28
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1

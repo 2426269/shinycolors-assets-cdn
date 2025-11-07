@@ -1,0 +1,538 @@
+
+【硝子少女】杜野凛世 偶像服.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L_bottom_down
+  rotate: false
+  xy: 172, 216
+  size: 61, 173
+  orig: 61, 173
+  offset: 0, 0
+  index: -1
+arm_L_bottom_down2
+  rotate: false
+  xy: 760, 404
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+arm_L_bottom_up
+  rotate: true
+  xy: 721, 696
+  size: 73, 123
+  orig: 73, 123
+  offset: 0, 0
+  index: -1
+arm_L_bottom_up2
+  rotate: false
+  xy: 689, 463
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+arm_L_bottom_up2_B
+  rotate: false
+  xy: 441, 254
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+arm_L_top_down
+  rotate: true
+  xy: 765, 771
+  size: 58, 206
+  orig: 58, 206
+  offset: 0, 0
+  index: -1
+arm_L_top_down2
+  rotate: true
+  xy: 584, 454
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+arm_R_bottom_down
+  rotate: false
+  xy: 95, 15
+  size: 68, 177
+  orig: 68, 177
+  offset: 0, 0
+  index: -1
+arm_R_bottom_up
+  rotate: true
+  xy: 846, 701
+  size: 68, 125
+  orig: 68, 125
+  offset: 0, 0
+  index: -1
+arm_R_bottom_upnc
+  rotate: false
+  xy: 371, 276
+  size: 68, 125
+  orig: 68, 125
+  offset: 0, 0
+  index: -1
+arm_R_top_down
+  rotate: true
+  xy: 193, 403
+  size: 79, 202
+  orig: 79, 202
+  offset: 0, 0
+  index: -1
+arm_R_top_down2
+  rotate: false
+  xy: 441, 309
+  size: 70, 95
+  orig: 70, 95
+  offset: 0, 0
+  index: -1
+bag_body
+  rotate: false
+  xy: 578, 522
+  size: 119, 152
+  orig: 119, 152
+  offset: 0, 0
+  index: -1
+bag_string
+  rotate: false
+  xy: 530, 396
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 495, 818
+  size: 204, 268
+  orig: 204, 268
+  offset: 0, 0
+  index: -1
+booth_L
+  rotate: false
+  xy: 441, 274
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+booth_R
+  rotate: false
+  xy: 739, 466
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: true
+  xy: 1013, 928
+  size: 94, 6
+  orig: 94, 6
+  offset: 0, 0
+  index: -1
+cheek_normal
+  rotate: false
+  xy: 235, 213
+  size: 160, 52
+  orig: 160, 52
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 994, 793
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 822, 428
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+eri
+  rotate: false
+  xy: 578, 676
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+eye_L_close
+  rotate: false
+  xy: 2, 2
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+eye_L_smile
+  rotate: true
+  xy: 748, 779
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+eye_R_close
+  rotate: false
+  xy: 42, 3
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+eye_R_smile
+  rotate: false
+  xy: 435, 818
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+eye_high_L
+  rotate: false
+  xy: 513, 399
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+eye_high_R
+  rotate: true
+  xy: 165, 176
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+eye_white_L
+  rotate: false
+  xy: 822, 404
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+eye_white_R
+  rotate: false
+  xy: 172, 192
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+eyeball_L
+  rotate: true
+  xy: 209, 194
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+eyeball_R
+  rotate: true
+  xy: 994, 720
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+eyebrow_normal_L
+  rotate: true
+  xy: 845, 466
+  size: 35, 7
+  orig: 35, 7
+  offset: 0, 0
+  index: -1
+eyebrow_normal_R
+  rotate: true
+  xy: 432, 239
+  size: 35, 7
+  orig: 35, 7
+  offset: 0, 0
+  index: -1
+eyelid_L_down
+  rotate: true
+  xy: 474, 818
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+eyelid_L_down2
+  rotate: false
+  xy: 80, 15
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+eyelid_L_up
+  rotate: true
+  xy: 994, 743
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+eyelid_R_down
+  rotate: false
+  xy: 186, 666
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+eyelid_R_down2
+  rotate: false
+  xy: 721, 692
+  size: 12, 2
+  orig: 12, 2
+  offset: 0, 0
+  index: -1
+eyelid_R_up
+  rotate: true
+  xy: 721, 771
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 446, 513
+  size: 130, 156
+  orig: 130, 156
+  offset: 0, 0
+  index: -1
+face_shadow
+  rotate: false
+  xy: 235, 267
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+finger_L_up
+  rotate: false
+  xy: 584, 314
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 367, 484
+  size: 77, 185
+  orig: 77, 185
+  offset: 0, 0
+  index: -1
+hair_M
+  rotate: true
+  xy: 435, 671
+  size: 145, 141
+  orig: 145, 141
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 95, 194
+  size: 75, 195
+  orig: 75, 195
+  offset: 0, 0
+  index: -1
+hair_ribbon
+  rotate: false
+  xy: 397, 411
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+hair_side_R
+  rotate: false
+  xy: 973, 718
+  size: 19, 111
+  orig: 19, 111
+  offset: 0, 0
+  index: -1
+hand_L_down
+  rotate: true
+  xy: 518, 262
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+hand_L_up
+  rotate: false
+  xy: 440, 406
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+hand_R_down
+  rotate: true
+  xy: 618, 333
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+hand_R_up
+  rotate: false
+  xy: 618, 387
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 765, 831
+  size: 191, 246
+  orig: 191, 246
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 339
+  size: 90, 325
+  orig: 90, 325
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 2, 19
+  size: 91, 318
+  orig: 91, 318
+  offset: 0, 0
+  index: -1
+mouth_close1
+  rotate: false
+  xy: 193, 399
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+mouth_close2
+  rotate: false
+  xy: 479, 829
+  size: 14, 2
+  orig: 14, 2
+  offset: 0, 0
+  index: -1
+mouth_close3
+  rotate: true
+  xy: 1020, 754
+  size: 16, 2
+  orig: 16, 2
+  offset: 0, 0
+  index: -1
+mouth_close4
+  rotate: true
+  xy: 1020, 772
+  size: 19, 2
+  orig: 19, 2
+  offset: 0, 0
+  index: -1
+mouth_open2
+  rotate: true
+  xy: 739, 503
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+mouth_open3
+  rotate: true
+  xy: 440, 465
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+mouth_surp
+  rotate: true
+  xy: 397, 403
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 698, 399
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: true
+  xy: 397, 215
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: true
+  xy: 584, 328
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+skirt_1
+  rotate: false
+  xy: 186, 671
+  size: 247, 160
+  orig: 247, 160
+  offset: 0, 0
+  index: -1
+skirt_2
+  rotate: false
+  xy: 186, 833
+  size: 307, 189
+  orig: 307, 189
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 699, 518
+  size: 44, 156
+  orig: 44, 156
+  offset: 0, 0
+  index: -1
+waist_acce1
+  rotate: false
+  xy: 513, 314
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+waist_acce2_1
+  rotate: true
+  xy: 446, 454
+  size: 57, 136
+  orig: 57, 136
+  offset: 0, 0
+  index: -1
+waist_acce2_2
+  rotate: false
+  xy: 745, 574
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+waist_acce3
+  rotate: false
+  xy: 745, 503
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+waist_acce4
+  rotate: false
+  xy: 193, 484
+  size: 172, 185
+  orig: 172, 185
+  offset: 0, 0
+  index: -1
+waist_acce5
+  rotate: false
+  xy: 94, 391
+  size: 97, 273
+  orig: 97, 273
+  offset: 0, 0
+  index: -1
+waist_acce6
+  rotate: false
+  xy: 2, 666
+  size: 182, 356
+  orig: 182, 356
+  offset: 0, 0
+  index: -1
+wara_ribbon
+  rotate: false
+  xy: 816, 466
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
